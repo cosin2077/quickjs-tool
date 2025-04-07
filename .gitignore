@@ -1,0 +1,35 @@
+mytool
+quickjs
+quickjs-cli
+quickjs.tar.xz
+output.txt
+# Ignore all files in the build directory
+build/
+# Ignore all .o files
+*.o
+# Ignore the executable file
+# Ignore all .log files
+*.log
+# Ignore all .swp files (vim swap files)
+*.swp
+# Ignore all .DS_Store files (macOS)
+.DS_Store
+# Ignore all .vscode directories (VSCode settings)
+.vscode/
+# Ignore all .idea directories (IntelliJ IDEA settings)
+.idea/
+# Ignore all .git directories (nested git repositories)
+.git/
+# Ignore all .env files (environment variables)
+.env
+# Ignore all .env.* files (environment variables)
+.env.*
+# Ignore all .env.local files (environment variables)
+.env.local
+# Ignore all .env.*.local files (environment variables)
+.env.*.local
+# Ignore all .env.development files (environment variables)
+.env.development
+# Ignore all .env.development.* files (environment variables)
+.env.development.*
+# Ignore all .env.test files (environment variables)
