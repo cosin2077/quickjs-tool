@@ -3,6 +3,8 @@ quickjs
 quickjs-cli
 quickjs.tar.xz
 output.txt
+cli/http.so
+cli/mycli
 # Ignore all files in the build directory
 build/
 # Ignore all .o files
